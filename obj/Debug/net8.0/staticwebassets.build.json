@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Dve1TY4uGiffZrT5J7MziVO43QILIMtm3XyXXCEODu8=",
+  "Source": "AzureDevOpsClient",
+  "BasePath": "_content/AzureDevOpsClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
