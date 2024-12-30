@@ -162,3 +162,4 @@ C:\Users\Subhashini V\source\repos\AzureDevOpsClient\AzureDevOpsClient\obj\Debug
 C:\Users\Subhashini V\source\repos\AzureDevOpsClient\AzureDevOpsClient\obj\Debug\net8.0\AzureDevOpsClient.genruntimeconfig.cache
 C:\Users\Subhashini V\source\repos\AzureDevOpsClient\AzureDevOpsClient\obj\Debug\net8.0\ref\AzureDevOpsClient.dll
 C:\Users\Subhashini V\source\repos\AzureDevOpsClient\AzureDevOpsClient\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Subhashini V\source\repos\AzureDevOpsClient\AzureDevOpsClient\obj\Debug\net8.0\AzureDevOpsClient.sourcelink.json

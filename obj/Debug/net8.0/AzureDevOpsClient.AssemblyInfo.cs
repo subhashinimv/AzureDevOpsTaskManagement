@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureDevOpsClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6056d6d678be75fb5259c87a2d64246252c4d40")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureDevOpsClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureDevOpsClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -40,7 +40,7 @@ namespace AzureDevOpsClient.Controllers
                 );
 
                 var tokenString = new JwtSecurityTokenHandler().WriteToken(token);
-                return Ok(new { Token = tokenString }); // to be implemented in FE
+                return Ok(new { Token = tokenString }); 
             }
 
             return Unauthorized();
